@@ -1,6 +1,6 @@
 # Cancer Immunotherapy from a Systems Engineering Perspective: SysML v2 Modeling Examples for Domain Experts
 
-**Author:** FagaoMBSE
+**Author:** FagaoMBSE (fagaombse@gmail.com)
 
 **Last Updated:** December 7, 2025
 
