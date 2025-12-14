@@ -2,8 +2,6 @@
 
 **Author:** FagaoMBSE (fagaombse@gmail.com)
 
-**Last Updated:** December 7, 2025
-
 ## Preface
 
 With the advent of the AI era, scientific researchers and product
